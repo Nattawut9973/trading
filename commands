@@ -1,0 +1,7 @@
+php artisan cron:savadata
+
+php artisan sell:auto
+
+php artisan send:email
+
+php artisan expire:user
